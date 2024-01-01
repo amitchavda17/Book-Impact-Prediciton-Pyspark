@@ -31,7 +31,7 @@ This Repo covers end to end approach of building a book impact predicition model
 
 ## Setup Instructions
 
-This Repo needs Spark Setup Locally incase you do not have it refer  to links below to setup Spark
+This Repo needs Spark Setup Locally incase you do not have it refer  to the links below to setup Spark
 
 1. Installing Spark on Mac [Guide](https://sparkbyexamples.com/pyspark/how-to-install-pyspark-on-mac/)
 
@@ -43,22 +43,22 @@ This Repo needs Spark Setup Locally incase you do not have it refer  to links be
 
 
 
-- **Feature_Engineering.ipynb**: This covers Exploratory Analysis and Featur Engineering using Pyspark [details](./FeatureEgineering.md)
+- **Feature_Engineering.ipynb**: This covers Exploratory Analysis and Feature Engineering using Pyspark [details](./FeatureEgineering.md)
 
-- **Modeling.ipynb**: This convers Model Data  Preperation and Model Training and Evaluation [details](./model_building.md)
+- **Modeling.ipynb**: This covers Model Data  Preparation and Model Training and Evaluation [details](./model_building.md)
 
 ## Virtual Environment
 
-Setup a Virtual Enviornment with all necessarty dependencies
+Setup a Virtual Environment with all necessary dependencies
 
 To set up a virtual environment, use the following commands (assuming you have Python 3 installed):
 
 ```bash
-# Create a virtual environment (replace 'myenv' with your preferred name)
+# Create a virtual environment (replace 'env' with your preferred name)
 python3 -m venv env
 
 # Activate the virtual environment
-source env/bin/activate  # On Windows, use 'myenv\Scripts\activate'
+source env/bin/activate  # On Windows, use 'env\Scripts\activate'
 ```
 
 ## Running the Code
