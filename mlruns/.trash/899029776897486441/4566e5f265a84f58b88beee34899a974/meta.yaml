@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/899029776897486441/4566e5f265a84f58b88beee34899a974/artifacts
+deleted_time: 1704024292143
+end_time: 1704022798500
+entry_point_name: ''
+experiment_id: '899029776897486441'
+lifecycle_stage: deleted
+run_id: 4566e5f265a84f58b88beee34899a974
+run_name: fun-panda-41
+run_uuid: 4566e5f265a84f58b88beee34899a974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704022652815
+status: 3
+tags: []
+user_id: apple

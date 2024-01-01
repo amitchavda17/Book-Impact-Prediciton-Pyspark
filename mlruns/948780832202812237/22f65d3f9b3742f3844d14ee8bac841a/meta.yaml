@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/948780832202812237/22f65d3f9b3742f3844d14ee8bac841a/artifacts
+end_time: 1704096778750
+entry_point_name: ''
+experiment_id: '948780832202812237'
+lifecycle_stage: active
+run_id: 22f65d3f9b3742f3844d14ee8bac841a
+run_name: bittersweet-calf-36
+run_uuid: 22f65d3f9b3742f3844d14ee8bac841a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704096655015
+status: 3
+tags: []
+user_id: apple

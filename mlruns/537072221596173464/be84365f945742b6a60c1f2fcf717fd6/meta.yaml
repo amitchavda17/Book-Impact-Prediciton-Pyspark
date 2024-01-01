@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/537072221596173464/be84365f945742b6a60c1f2fcf717fd6/artifacts
+deleted_time: 1704024223466
+end_time: null
+entry_point_name: ''
+experiment_id: '537072221596173464'
+lifecycle_stage: deleted
+run_id: be84365f945742b6a60c1f2fcf717fd6
+run_name: redolent-ox-444
+run_uuid: be84365f945742b6a60c1f2fcf717fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704021523127
+status: 1
+tags: []
+user_id: apple

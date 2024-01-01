@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/433967173000529909/78710646581449f38d8f07cc58c7c726/artifacts
+deleted_time: 1704095837817
+end_time: 1704080278785
+entry_point_name: ''
+experiment_id: '433967173000529909'
+lifecycle_stage: deleted
+run_id: 78710646581449f38d8f07cc58c7c726
+run_name: rogue-boar-745
+run_uuid: 78710646581449f38d8f07cc58c7c726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704045132447
+status: 3
+tags: []
+user_id: apple

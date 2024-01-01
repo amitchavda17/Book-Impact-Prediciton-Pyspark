@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/899029776897486441/545513b51f81471db6317b223c2569c5/artifacts
+deleted_time: 1704024292143
+end_time: null
+entry_point_name: ''
+experiment_id: '899029776897486441'
+lifecycle_stage: deleted
+run_id: 545513b51f81471db6317b223c2569c5
+run_name: sassy-lynx-180
+run_uuid: 545513b51f81471db6317b223c2569c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704022798515
+status: 1
+tags: []
+user_id: apple

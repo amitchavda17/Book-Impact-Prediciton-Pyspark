@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/948780832202812237/d617625e4b3c4fde85935c22219f8e0b/artifacts
+end_time: 1704096532125
+entry_point_name: ''
+experiment_id: '948780832202812237'
+lifecycle_stage: active
+run_id: d617625e4b3c4fde85935c22219f8e0b
+run_name: sassy-conch-306
+run_uuid: d617625e4b3c4fde85935c22219f8e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704096403752
+status: 3
+tags: []
+user_id: apple

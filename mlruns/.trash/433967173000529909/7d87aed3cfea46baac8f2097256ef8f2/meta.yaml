@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/433967173000529909/7d87aed3cfea46baac8f2097256ef8f2/artifacts
+deleted_time: 1704095837817
+end_time: 1704024685514
+entry_point_name: ''
+experiment_id: '433967173000529909'
+lifecycle_stage: deleted
+run_id: 7d87aed3cfea46baac8f2097256ef8f2
+run_name: wistful-gnu-636
+run_uuid: 7d87aed3cfea46baac8f2097256ef8f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704024572012
+status: 3
+tags: []
+user_id: apple

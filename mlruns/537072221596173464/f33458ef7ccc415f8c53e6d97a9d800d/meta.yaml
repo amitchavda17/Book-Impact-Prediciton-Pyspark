@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/537072221596173464/f33458ef7ccc415f8c53e6d97a9d800d/artifacts
+end_time: 1704022107113
+entry_point_name: ''
+experiment_id: '537072221596173464'
+lifecycle_stage: active
+run_id: f33458ef7ccc415f8c53e6d97a9d800d
+run_name: serious-snake-231
+run_uuid: f33458ef7ccc415f8c53e6d97a9d800d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704021959295
+status: 3
+tags: []
+user_id: apple

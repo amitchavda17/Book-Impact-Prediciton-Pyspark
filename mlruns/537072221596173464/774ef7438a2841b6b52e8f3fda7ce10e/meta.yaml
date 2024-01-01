@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/537072221596173464/774ef7438a2841b6b52e8f3fda7ce10e/artifacts
+end_time: 1704022401361
+entry_point_name: ''
+experiment_id: '537072221596173464'
+lifecycle_stage: active
+run_id: 774ef7438a2841b6b52e8f3fda7ce10e
+run_name: delightful-zebra-956
+run_uuid: 774ef7438a2841b6b52e8f3fda7ce10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704022252480
+status: 3
+tags: []
+user_id: apple

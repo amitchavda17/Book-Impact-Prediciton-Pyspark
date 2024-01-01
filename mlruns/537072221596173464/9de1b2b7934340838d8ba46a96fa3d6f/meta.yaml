@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/537072221596173464/9de1b2b7934340838d8ba46a96fa3d6f/artifacts
+deleted_time: 1704024223465
+end_time: 1704021924852
+entry_point_name: ''
+experiment_id: '537072221596173464'
+lifecycle_stage: deleted
+run_id: 9de1b2b7934340838d8ba46a96fa3d6f
+run_name: handsome-owl-360
+run_uuid: 9de1b2b7934340838d8ba46a96fa3d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704021924660
+status: 4
+tags: []
+user_id: apple

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/537072221596173464/e6a83422714b48d4b6c532aeb2f6f119/artifacts
+deleted_time: 1704024223465
+end_time: 1704021743744
+entry_point_name: ''
+experiment_id: '537072221596173464'
+lifecycle_stage: deleted
+run_id: e6a83422714b48d4b6c532aeb2f6f119
+run_name: adventurous-owl-833
+run_uuid: e6a83422714b48d4b6c532aeb2f6f119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704021743532
+status: 4
+tags: []
+user_id: apple

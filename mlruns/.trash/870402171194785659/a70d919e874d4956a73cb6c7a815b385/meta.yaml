@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/870402171194785659/a70d919e874d4956a73cb6c7a815b385/artifacts
+deleted_time: 1704024590940
+end_time: 1704024570641
+entry_point_name: ''
+experiment_id: '870402171194785659'
+lifecycle_stage: deleted
+run_id: a70d919e874d4956a73cb6c7a815b385
+run_name: gifted-bear-938
+run_uuid: a70d919e874d4956a73cb6c7a815b385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704024457641
+status: 4
+tags: []
+user_id: apple

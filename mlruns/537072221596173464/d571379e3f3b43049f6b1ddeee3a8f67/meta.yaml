@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/537072221596173464/d571379e3f3b43049f6b1ddeee3a8f67/artifacts
+deleted_time: 1704024331061
+end_time: 1704021743244
+entry_point_name: ''
+experiment_id: '537072221596173464'
+lifecycle_stage: deleted
+run_id: d571379e3f3b43049f6b1ddeee3a8f67
+run_name: aged-mule-282
+run_uuid: d571379e3f3b43049f6b1ddeee3a8f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704021595032
+status: 3
+tags: []
+user_id: apple

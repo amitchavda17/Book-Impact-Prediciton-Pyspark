@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Book-Impact/mlruns/433967173000529909/e8a4751dab8a4f6ba284e91a460c8b01/artifacts
+deleted_time: 1704095837817
+end_time: 1704045132417
+entry_point_name: ''
+experiment_id: '433967173000529909'
+lifecycle_stage: deleted
+run_id: e8a4751dab8a4f6ba284e91a460c8b01
+run_name: masked-shrike-516
+run_uuid: e8a4751dab8a4f6ba284e91a460c8b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704024685527
+status: 3
+tags: []
+user_id: apple
